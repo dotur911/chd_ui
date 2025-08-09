@@ -23,10 +23,6 @@ This is the command-line tool your GUI calls to convert/extract CHD files.
 
 You must have chdman installed and accessible from your system’s PATH environment variable so the script can call it.
 
-chdman is part of the MAME project and can be downloaded from:
-https://mamedev.org/
-
-Or get it from official MAME releases or builds.
 
 Operating System
 
